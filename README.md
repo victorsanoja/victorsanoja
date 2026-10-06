@@ -4,7 +4,7 @@ Construyo software completo **dirigiendo IA con criterio**. Conecto normativa, p
 
 Ávila, España · Abierto a ofertas · Modalidad: Remoto, Ávila, Madrid híbrido
 
-**CV online:** [artvalleys.github.io](https://artvalleys.github.io) · [CV en PDF](https://artvalleys.github.io/CV-Victor-Sanoja-Valles.pdf)
+**CV online:** [victorsanoja.github.io](https://victorsanoja.github.io) · [CV en PDF](https://victorsanoja.github.io/CV-Victor-Sanoja-Valles.pdf)
 
 ## Proyectos
 
