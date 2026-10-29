@@ -9,6 +9,7 @@ Construyo software completo **dirigiendo IA con criterio**. Conecto normativa, p
 ## Proyectos
 
 - **gestorFacturas** — SaaS fiscal para gestorías: facturas, modelos de la AEAT y VeriFACTU. En desarrollo.
+- **Planificador de cursos** — Para ATU, donde trabajo: reparte las horas de cada curso en el calendario y saca los documentos oficiales del ECYL en PDF. Primera versión, aún sin usar.
 - **Prácticas Yemas** — En Yemas Santa Teresa: captación con n8n, búsqueda de emails, validador del catálogo en Python y alérgenos en Shopify.
 - **Devenga** — Blog sobre VeriFACTU y factura electrónica para gestorías, con generador estático propio en Python: [devenga.es](https://devenga.es).
 - **valltech.es** — Mi web, en HTML, CSS y JavaScript sin frameworks: [valltech.es](https://valltech.es).
